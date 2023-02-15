@@ -1,6 +1,7 @@
 ## Hi there 👋, my name is **Hamza**
 #### Web & Mobile Application Developer
-![Web & Mobile Application Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<img src='https://www.volumetree.com/wp-content/uploads/2019/11/Custom-Mobile-App-Development-1.png'  alt='github' height='300' width='700' >
+
 
 Web and mobile application developer
 Work on small and large corporate applications for companies
