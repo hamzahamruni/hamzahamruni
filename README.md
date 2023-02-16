@@ -1,4 +1,5 @@
 ## Hi there 👋, my name is **Hamza**
+## <i>الحمد لله الذي علمنا ما لم نعلم</i>
 #### Web & Mobile Application Developer
 <img src='https://www.volumetree.com/wp-content/uploads/2019/11/Custom-Mobile-App-Development-1.png'  alt='github' height='300' width='700' >
 
