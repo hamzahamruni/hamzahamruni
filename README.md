@@ -19,6 +19,6 @@ Skills: C++ / PHP / REACT / JS / HTML / CSS
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahamruni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahamruni)](https://github.com/hamzahamruni)
 
 ![Profile views](https://gpvc.arturio.dev/hamzahamruni)  
